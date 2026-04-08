@@ -1,2 +1,2 @@
-# M7_ProyectoFinal
-Proyecto final del modulo 7 de diplomado
+# M8_ProyectoFinal
+Proyecto final del modulo 8 de diplomado
